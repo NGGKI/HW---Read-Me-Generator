@@ -116,7 +116,7 @@ async function init() {
   console.log("Thank you for your responses! Generating your README next...");
   const userInfo = await api.getUser(userResponses)
   /*  console.log("Your GitHub user info: ", userInfo); */
-  writeToFile("README.md", generateMarkdown(userResponses, userInfo))
+  writeToFile("sampleREADME.md", generateMarkdown(userResponses, userInfo))
 }
 
 // function call to initialize program
