@@ -2,7 +2,7 @@
 
 ## About me
 
-eg: I like soccer
+I like soccer
 
 ## Description
 
