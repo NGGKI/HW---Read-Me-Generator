@@ -1,10 +1,12 @@
-# Readme Generator
+# Project Title
 
 ## About me
 
 eg: I like soccer
 
 ## Description
+
+Project Description
 
 Create a generator for readme :)
 
@@ -26,27 +28,19 @@ Create a generator for readme :)
 
 To install necessary dependencies, run the following command:
 
-Testing
-
 ## Usage
-
-Testing
 
 ## Contributing
 
-Testing
-
 ## Tests
-
-Testing
 
 ## License
 
-The Unlicense
+GNU AGPLv3
 
 ## Inquiries
 
-<img src="https://avatars.githubusercontent.com/u/99234927?v=4" alt="NGGKI" width="40%" border-radius: 10px />
+<img src="https://avatars.githubusercontent.com/u/99234927?v=4" alt="NGGKI" width="40%" />
 
 For trouble shooting,please trouble yourself and drop me a message via :
 
