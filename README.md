@@ -50,6 +50,8 @@ Finally, fs.writeFile is used to generate your project's README.md file. Check o
 
 ## Tests
 
+Using Github API to import picture and URL. Exploiting more options to add on. 
+
 ## License
 
 The Unlicense
