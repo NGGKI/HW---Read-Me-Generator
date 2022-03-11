@@ -52,11 +52,11 @@ Finally, fs.writeFile is used to generate your project's README.md file. Check o
 
 ## License
 
-GNU AGPLv3
+The Unlicense
 
 ## Inquiries
 
-<img src="https://avatars.githubusercontent.com/u/99234927?v=4" alt="NGGKI" width="40%" />
+<img src="https://avatars.githubusercontent.com/u/99234927?v=4" alt="NGGKI" width="30%" />
 
 For trouble shooting,please trouble yourself and drop me a message via :
 
