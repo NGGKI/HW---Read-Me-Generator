@@ -54,7 +54,7 @@ ${userResponses.license}
 
 For trouble shooting,please trouble yourself and drop me a message via :
 
-Github: ${userInfo.html_url};
+Github: ${userInfo.html_url}
 
 `};
 
